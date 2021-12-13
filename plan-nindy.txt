@@ -1,0 +1,3 @@
+Python for data scientist
+python for data analysis
+cicd for devops engineering
